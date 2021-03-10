@@ -22,6 +22,14 @@ export default {
 }
 </script>
 
-<style>
+<style  scoped lang ="scss">
+   #profile-container{
+     height: 100vh;
+     img{
+       max-height: 100px;
+       border-radius: 100px;
+     }
+   }
+</style>>
 
 </style>
